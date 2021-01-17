@@ -4,7 +4,7 @@
 Utilize MySQL, NODE,Express
 
 ## Installation
-Restaurant app that lets users inputnames of burgers theyd like to eat
+Restaurant app that lets users input names of burgers theyd like to eat. Then are able to Devour or throw them up! 
 
 ## License
 MIT License
